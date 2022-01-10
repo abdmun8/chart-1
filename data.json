@@ -1,0 +1,2076 @@
+{
+  "Status": 200,
+  "Message": null,
+  "Data": [
+    {
+      "MachineStateHistoryId": 3648,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T22:17:43.93",
+      "EndDate": "2021-12-29T13:24:31.15"
+    },
+    {
+      "MachineStateHistoryId": 3647,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T22:06:44.337",
+      "EndDate": "2021-12-28T22:17:43.92"
+    },
+    {
+      "MachineStateHistoryId": 3646,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T22:04:44.183",
+      "EndDate": "2021-12-28T22:06:44.33"
+    },
+    {
+      "MachineStateHistoryId": 3643,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T21:31:43.783",
+      "EndDate": "2021-12-28T22:04:44.173"
+    },
+    {
+      "MachineStateHistoryId": 3642,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T21:29:44.133",
+      "EndDate": "2021-12-28T21:31:43.777"
+    },
+    {
+      "MachineStateHistoryId": 3641,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T21:24:44.383",
+      "EndDate": "2021-12-28T21:29:44.127"
+    },
+    {
+      "MachineStateHistoryId": 3640,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T21:21:49.457",
+      "EndDate": "2021-12-28T21:24:44.377"
+    },
+    {
+      "MachineStateHistoryId": 3638,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T21:15:44.007",
+      "EndDate": "2021-12-28T21:21:49.443"
+    },
+    {
+      "MachineStateHistoryId": 3636,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T20:59:43.703",
+      "EndDate": "2021-12-28T21:15:44"
+    },
+    {
+      "MachineStateHistoryId": 3635,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T20:55:43.693",
+      "EndDate": "2021-12-28T20:59:43.697"
+    },
+    {
+      "MachineStateHistoryId": 3634,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T20:54:43.627",
+      "EndDate": "2021-12-28T20:55:43.687"
+    },
+    {
+      "MachineStateHistoryId": 3633,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T20:41:43.69",
+      "EndDate": "2021-12-28T20:54:43.62"
+    },
+    {
+      "MachineStateHistoryId": 3632,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T20:40:43.793",
+      "EndDate": "2021-12-28T20:41:43.683"
+    },
+    {
+      "MachineStateHistoryId": 3631,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T20:34:43.55",
+      "EndDate": "2021-12-28T20:40:43.783"
+    },
+    {
+      "MachineStateHistoryId": 3630,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T20:33:43.68",
+      "EndDate": "2021-12-28T20:34:43.543"
+    },
+    {
+      "MachineStateHistoryId": 3625,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:51:43.513",
+      "EndDate": "2021-12-28T20:33:43.67"
+    },
+    {
+      "MachineStateHistoryId": 3624,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:48:43.83",
+      "EndDate": "2021-12-28T19:51:43.507"
+    },
+    {
+      "MachineStateHistoryId": 3622,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:38:43.653",
+      "EndDate": "2021-12-28T19:48:43.82"
+    },
+    {
+      "MachineStateHistoryId": 3621,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:36:43.547",
+      "EndDate": "2021-12-28T19:38:43.643"
+    },
+    {
+      "MachineStateHistoryId": 3620,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:35:43.683",
+      "EndDate": "2021-12-28T19:36:43.537"
+    },
+    {
+      "MachineStateHistoryId": 3618,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:34:43.523",
+      "EndDate": "2021-12-28T19:35:43.677"
+    },
+    {
+      "MachineStateHistoryId": 3617,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:31:43.557",
+      "EndDate": "2021-12-28T19:34:43.513"
+    },
+    {
+      "MachineStateHistoryId": 3616,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:30:43.39",
+      "EndDate": "2021-12-28T19:31:43.547"
+    },
+    {
+      "MachineStateHistoryId": 3615,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:19:46.007",
+      "EndDate": "2021-12-28T19:30:43.38"
+    },
+    {
+      "MachineStateHistoryId": 3614,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:18:43.56",
+      "EndDate": "2021-12-28T19:19:46"
+    },
+    {
+      "MachineStateHistoryId": 3613,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T19:05:44.033",
+      "EndDate": "2021-12-28T19:18:43.55"
+    },
+    {
+      "MachineStateHistoryId": 3611,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T18:30:43.537",
+      "EndDate": "2021-12-28T19:05:44.023"
+    },
+    {
+      "MachineStateHistoryId": 3609,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T18:05:43.85",
+      "EndDate": "2021-12-28T18:30:43.527"
+    },
+    {
+      "MachineStateHistoryId": 3608,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T18:04:43.43",
+      "EndDate": "2021-12-28T18:05:43.843"
+    },
+    {
+      "MachineStateHistoryId": 3605,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T17:26:43.343",
+      "EndDate": "2021-12-28T18:04:43.423"
+    },
+    {
+      "MachineStateHistoryId": 3604,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T17:23:44.653",
+      "EndDate": "2021-12-28T17:26:43.333"
+    },
+    {
+      "MachineStateHistoryId": 3603,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T17:00:43.37",
+      "EndDate": "2021-12-28T17:23:44.647"
+    },
+    {
+      "MachineStateHistoryId": 3602,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T16:55:43.343",
+      "EndDate": "2021-12-28T17:00:43.36"
+    },
+    {
+      "MachineStateHistoryId": 3601,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T16:52:43.373",
+      "EndDate": "2021-12-28T16:55:43.337"
+    },
+    {
+      "MachineStateHistoryId": 3600,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T16:50:43.4",
+      "EndDate": "2021-12-28T16:52:43.363"
+    },
+    {
+      "MachineStateHistoryId": 3599,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T16:16:43.397",
+      "EndDate": "2021-12-28T16:50:43.39"
+    },
+    {
+      "MachineStateHistoryId": 3585,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T13:57:43.38",
+      "EndDate": "2021-12-28T16:16:43.387"
+    },
+    {
+      "MachineStateHistoryId": 3584,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-28T13:50:43.407",
+      "EndDate": "2021-12-28T13:57:43.373"
+    },
+    {
+      "MachineStateHistoryId": 3548,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T22:18:52.8",
+      "EndDate": "2021-12-28T13:50:43.397"
+    },
+    {
+      "MachineStateHistoryId": 3543,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T21:20:52.593",
+      "EndDate": "2021-12-27T22:18:52.79"
+    },
+    {
+      "MachineStateHistoryId": 3541,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T21:03:52.637",
+      "EndDate": "2021-12-27T21:20:52.583"
+    },
+    {
+      "MachineStateHistoryId": 3537,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T20:24:52.583",
+      "EndDate": "2021-12-27T21:03:52.63"
+    },
+    {
+      "MachineStateHistoryId": 3536,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T20:22:52.657",
+      "EndDate": "2021-12-27T20:24:52.573"
+    },
+    {
+      "MachineStateHistoryId": 3535,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T20:18:52.89",
+      "EndDate": "2021-12-27T20:22:52.643"
+    },
+    {
+      "MachineStateHistoryId": 3534,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T20:16:52.52",
+      "EndDate": "2021-12-27T20:18:52.88"
+    },
+    {
+      "MachineStateHistoryId": 3531,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T19:53:52.973",
+      "EndDate": "2021-12-27T20:16:52.51"
+    },
+    {
+      "MachineStateHistoryId": 3530,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T19:52:52.803",
+      "EndDate": "2021-12-27T19:53:52.963"
+    },
+    {
+      "MachineStateHistoryId": 3525,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T19:25:52.403",
+      "EndDate": "2021-12-27T19:52:52.793"
+    },
+    {
+      "MachineStateHistoryId": 3524,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T19:22:52.457",
+      "EndDate": "2021-12-27T19:25:52.393"
+    },
+    {
+      "MachineStateHistoryId": 3523,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T19:07:52.39",
+      "EndDate": "2021-12-27T19:22:52.447"
+    },
+    {
+      "MachineStateHistoryId": 3521,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T18:30:52.29",
+      "EndDate": "2021-12-27T19:07:52.38"
+    },
+    {
+      "MachineStateHistoryId": 3519,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T17:59:52.447",
+      "EndDate": "2021-12-27T18:30:52.28"
+    },
+    {
+      "MachineStateHistoryId": 3518,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T17:57:52.647",
+      "EndDate": "2021-12-27T17:59:52.437"
+    },
+    {
+      "MachineStateHistoryId": 3513,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T16:33:52.287",
+      "EndDate": "2021-12-27T17:57:52.637"
+    },
+    {
+      "MachineStateHistoryId": 3500,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T13:52:51.987",
+      "EndDate": "2021-12-27T16:33:52.277"
+    },
+    {
+      "MachineStateHistoryId": 3499,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-27T13:45:52.16",
+      "EndDate": "2021-12-27T13:52:51.98"
+    },
+    {
+      "MachineStateHistoryId": 3470,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T22:18:21.893",
+      "EndDate": "2021-12-27T13:45:52.13"
+    },
+    {
+      "MachineStateHistoryId": 3468,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T21:46:22.03",
+      "EndDate": "2021-12-23T22:18:21.883"
+    },
+    {
+      "MachineStateHistoryId": 3467,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T21:43:21.987",
+      "EndDate": "2021-12-23T21:46:22.023"
+    },
+    {
+      "MachineStateHistoryId": 3466,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T21:32:21.697",
+      "EndDate": "2021-12-23T21:43:21.977"
+    },
+    {
+      "MachineStateHistoryId": 3465,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T21:28:21.66",
+      "EndDate": "2021-12-23T21:32:21.687"
+    },
+    {
+      "MachineStateHistoryId": 3464,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T21:16:21.857",
+      "EndDate": "2021-12-23T21:28:21.65"
+    },
+    {
+      "MachineStateHistoryId": 3462,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T21:00:21.597",
+      "EndDate": "2021-12-23T21:16:21.847"
+    },
+    {
+      "MachineStateHistoryId": 3460,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T20:13:21.557",
+      "EndDate": "2021-12-23T21:00:21.59"
+    },
+    {
+      "MachineStateHistoryId": 3459,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T20:11:21.943",
+      "EndDate": "2021-12-23T20:13:21.55"
+    },
+    {
+      "MachineStateHistoryId": 3458,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T20:10:21.363",
+      "EndDate": "2021-12-23T20:11:21.937"
+    },
+    {
+      "MachineStateHistoryId": 3457,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T20:04:21.57",
+      "EndDate": "2021-12-23T20:10:21.357"
+    },
+    {
+      "MachineStateHistoryId": 3456,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T19:20:21.777",
+      "EndDate": "2021-12-23T20:04:21.563"
+    },
+    {
+      "MachineStateHistoryId": 3455,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T19:15:21.873",
+      "EndDate": "2021-12-23T19:20:21.767"
+    },
+    {
+      "MachineStateHistoryId": 3454,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T19:11:21.597",
+      "EndDate": "2021-12-23T19:15:21.863"
+    },
+    {
+      "MachineStateHistoryId": 3452,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T18:32:21.537",
+      "EndDate": "2021-12-23T19:11:21.587"
+    },
+    {
+      "MachineStateHistoryId": 3449,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T18:04:21.317",
+      "EndDate": "2021-12-23T18:32:21.537"
+    },
+    {
+      "MachineStateHistoryId": 3447,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T18:02:21.333",
+      "EndDate": "2021-12-23T18:04:21.317"
+    },
+    {
+      "MachineStateHistoryId": 3443,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T17:03:21.413",
+      "EndDate": "2021-12-23T18:02:21.333"
+    },
+    {
+      "MachineStateHistoryId": 3442,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T17:02:21.5",
+      "EndDate": "2021-12-23T17:03:21.413"
+    },
+    {
+      "MachineStateHistoryId": 3441,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T16:50:21.343",
+      "EndDate": "2021-12-23T17:02:21.5"
+    },
+    {
+      "MachineStateHistoryId": 3440,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T16:48:21.407",
+      "EndDate": "2021-12-23T16:50:21.343"
+    },
+    {
+      "MachineStateHistoryId": 3439,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T16:34:21.397",
+      "EndDate": "2021-12-23T16:48:21.407"
+    },
+    {
+      "MachineStateHistoryId": 3438,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T16:32:21.103",
+      "EndDate": "2021-12-23T16:34:21.397"
+    },
+    {
+      "MachineStateHistoryId": 3436,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T16:26:21.253",
+      "EndDate": "2021-12-23T16:32:21.103"
+    },
+    {
+      "MachineStateHistoryId": 3435,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T16:24:21.28",
+      "EndDate": "2021-12-23T16:26:21.253"
+    },
+    {
+      "MachineStateHistoryId": 3433,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T16:15:21.297",
+      "EndDate": "2021-12-23T16:24:21.28"
+    },
+    {
+      "MachineStateHistoryId": 3432,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T16:00:21.247",
+      "EndDate": "2021-12-23T16:15:21.297"
+    },
+    {
+      "MachineStateHistoryId": 3431,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T15:56:21.293",
+      "EndDate": "2021-12-23T16:00:21.247"
+    },
+    {
+      "MachineStateHistoryId": 3430,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T15:55:21.31",
+      "EndDate": "2021-12-23T15:56:21.293"
+    },
+    {
+      "MachineStateHistoryId": 3427,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T15:03:21.203",
+      "EndDate": "2021-12-23T15:55:21.31"
+    },
+    {
+      "MachineStateHistoryId": 3426,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T14:38:21.26",
+      "EndDate": "2021-12-23T15:03:21.203"
+    },
+    {
+      "MachineStateHistoryId": 3425,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-23T14:34:21.3",
+      "EndDate": "2021-12-23T14:38:21.26"
+    },
+    {
+      "MachineStateHistoryId": 3406,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T22:23:47.973",
+      "EndDate": "2021-12-23T14:34:21.3"
+    },
+    {
+      "MachineStateHistoryId": 3403,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T21:23:47.803",
+      "EndDate": "2021-12-22T22:23:47.973"
+    },
+    {
+      "MachineStateHistoryId": 3402,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T21:21:47.723",
+      "EndDate": "2021-12-22T21:23:47.803"
+    },
+    {
+      "MachineStateHistoryId": 3401,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T21:17:47.723",
+      "EndDate": "2021-12-22T21:21:47.723"
+    },
+    {
+      "MachineStateHistoryId": 3399,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T21:02:47.733",
+      "EndDate": "2021-12-22T21:17:47.723"
+    },
+    {
+      "MachineStateHistoryId": 3397,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T20:45:47.897",
+      "EndDate": "2021-12-22T21:02:47.733"
+    },
+    {
+      "MachineStateHistoryId": 3396,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T20:39:47.71",
+      "EndDate": "2021-12-22T20:45:47.897"
+    },
+    {
+      "MachineStateHistoryId": 3395,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T20:26:47.797",
+      "EndDate": "2021-12-22T20:39:47.71"
+    },
+    {
+      "MachineStateHistoryId": 3394,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T20:23:47.693",
+      "EndDate": "2021-12-22T20:26:47.797"
+    },
+    {
+      "MachineStateHistoryId": 3393,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T20:22:48.393",
+      "EndDate": "2021-12-22T20:23:47.693"
+    },
+    {
+      "MachineStateHistoryId": 3392,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T20:21:47.533",
+      "EndDate": "2021-12-22T20:22:48.393"
+    },
+    {
+      "MachineStateHistoryId": 3391,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T19:43:47.51",
+      "EndDate": "2021-12-22T20:21:47.533"
+    },
+    {
+      "MachineStateHistoryId": 3390,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T19:40:47.747",
+      "EndDate": "2021-12-22T19:43:47.51"
+    },
+    {
+      "MachineStateHistoryId": 3389,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T19:31:47.637",
+      "EndDate": "2021-12-22T19:40:47.747"
+    },
+    {
+      "MachineStateHistoryId": 3388,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T19:28:47.497",
+      "EndDate": "2021-12-22T19:31:47.637"
+    },
+    {
+      "MachineStateHistoryId": 3387,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T19:08:47.49",
+      "EndDate": "2021-12-22T19:28:47.497"
+    },
+    {
+      "MachineStateHistoryId": 3385,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T18:30:47.507",
+      "EndDate": "2021-12-22T19:08:47.49"
+    },
+    {
+      "MachineStateHistoryId": 3384,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T18:26:47.58",
+      "EndDate": "2021-12-22T18:30:47.507"
+    },
+    {
+      "MachineStateHistoryId": 3383,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T18:25:47.42",
+      "EndDate": "2021-12-22T18:26:47.58"
+    },
+    {
+      "MachineStateHistoryId": 3379,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T17:15:47.377",
+      "EndDate": "2021-12-22T18:25:47.42"
+    },
+    {
+      "MachineStateHistoryId": 3378,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T17:13:48.953",
+      "EndDate": "2021-12-22T17:15:47.377"
+    },
+    {
+      "MachineStateHistoryId": 3375,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T17:01:47.537",
+      "EndDate": "2021-12-22T17:13:48.953"
+    },
+    {
+      "MachineStateHistoryId": 3374,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T16:59:47.803",
+      "EndDate": "2021-12-22T17:01:47.537"
+    },
+    {
+      "MachineStateHistoryId": 3373,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T16:58:47.347",
+      "EndDate": "2021-12-22T16:59:47.803"
+    },
+    {
+      "MachineStateHistoryId": 3372,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T16:57:47.627",
+      "EndDate": "2021-12-22T16:58:47.347"
+    },
+    {
+      "MachineStateHistoryId": 3370,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T16:30:47.357",
+      "EndDate": "2021-12-22T16:57:47.627"
+    },
+    {
+      "MachineStateHistoryId": 3369,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T16:29:47.58",
+      "EndDate": "2021-12-22T16:30:47.357"
+    },
+    {
+      "MachineStateHistoryId": 3365,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-22T16:01:47.417",
+      "EndDate": "2021-12-22T16:29:47.58"
+    },
+    {
+      "MachineStateHistoryId": 3344,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T22:19:11.123",
+      "EndDate": "2021-12-22T16:01:47.417"
+    },
+    {
+      "MachineStateHistoryId": 3339,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T21:21:10.733",
+      "EndDate": "2021-12-21T22:19:11.123"
+    },
+    {
+      "MachineStateHistoryId": 3337,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T21:07:10.633",
+      "EndDate": "2021-12-21T21:21:10.733"
+    },
+    {
+      "MachineStateHistoryId": 3335,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T20:30:10.733",
+      "EndDate": "2021-12-21T21:07:10.633"
+    },
+    {
+      "MachineStateHistoryId": 3334,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T20:26:10.697",
+      "EndDate": "2021-12-21T20:30:10.733"
+    },
+    {
+      "MachineStateHistoryId": 3330,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T19:57:10.58",
+      "EndDate": "2021-12-21T20:26:10.697"
+    },
+    {
+      "MachineStateHistoryId": 3329,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T19:55:10.63",
+      "EndDate": "2021-12-21T19:57:10.58"
+    },
+    {
+      "MachineStateHistoryId": 3328,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T19:35:10.503",
+      "EndDate": "2021-12-21T19:55:10.63"
+    },
+    {
+      "MachineStateHistoryId": 3327,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T19:27:10.57",
+      "EndDate": "2021-12-21T19:35:10.503"
+    },
+    {
+      "MachineStateHistoryId": 3326,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T19:13:10.723",
+      "EndDate": "2021-12-21T19:27:10.57"
+    },
+    {
+      "MachineStateHistoryId": 3325,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T19:10:10.613",
+      "EndDate": "2021-12-21T19:13:10.723"
+    },
+    {
+      "MachineStateHistoryId": 3324,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T19:06:10.96",
+      "EndDate": "2021-12-21T19:10:10.613"
+    },
+    {
+      "MachineStateHistoryId": 3322,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T18:32:10.45",
+      "EndDate": "2021-12-21T19:06:10.96"
+    },
+    {
+      "MachineStateHistoryId": 3319,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T16:37:10.623",
+      "EndDate": "2021-12-21T18:32:10.45"
+    },
+    {
+      "MachineStateHistoryId": 3318,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T16:35:10.467",
+      "EndDate": "2021-12-21T16:37:10.623"
+    },
+    {
+      "MachineStateHistoryId": 3317,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T16:18:10.29",
+      "EndDate": "2021-12-21T16:35:10.467"
+    },
+    {
+      "MachineStateHistoryId": 3316,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T16:16:10.317",
+      "EndDate": "2021-12-21T16:18:10.29"
+    },
+    {
+      "MachineStateHistoryId": 3315,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-21T16:14:10.41",
+      "EndDate": "2021-12-21T16:16:10.317"
+    },
+    {
+      "MachineStateHistoryId": 3264,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T19:24:07.363",
+      "EndDate": "2021-12-21T16:14:10.41"
+    },
+    {
+      "MachineStateHistoryId": 3262,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T19:13:04.937",
+      "EndDate": "2021-12-20T19:24:07.363"
+    },
+    {
+      "MachineStateHistoryId": 3261,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T19:11:04.997",
+      "EndDate": "2021-12-20T19:13:04.937"
+    },
+    {
+      "MachineStateHistoryId": 3259,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T19:05:05.033",
+      "EndDate": "2021-12-20T19:11:04.997"
+    },
+    {
+      "MachineStateHistoryId": 3258,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T18:30:05.03",
+      "EndDate": "2021-12-20T19:05:05.033"
+    },
+    {
+      "MachineStateHistoryId": 3250,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T17:21:04.92",
+      "EndDate": "2021-12-20T18:30:05.03"
+    },
+    {
+      "MachineStateHistoryId": 3249,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T17:20:07.07",
+      "EndDate": "2021-12-20T17:21:04.92"
+    },
+    {
+      "MachineStateHistoryId": 3245,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T16:23:04.757",
+      "EndDate": "2021-12-20T17:20:07.07"
+    },
+    {
+      "MachineStateHistoryId": 3242,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T16:10:04.69",
+      "EndDate": "2021-12-20T16:23:04.757"
+    },
+    {
+      "MachineStateHistoryId": 3237,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T14:19:04.593",
+      "EndDate": "2021-12-20T16:10:04.69"
+    },
+    {
+      "MachineStateHistoryId": 3236,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T13:53:04.613",
+      "EndDate": "2021-12-20T14:19:04.593"
+    },
+    {
+      "MachineStateHistoryId": 3235,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-20T13:47:04.64",
+      "EndDate": "2021-12-20T13:53:04.613"
+    },
+    {
+      "MachineStateHistoryId": 3213,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T22:19:08.94",
+      "EndDate": "2021-12-20T13:47:04.64"
+    },
+    {
+      "MachineStateHistoryId": 3212,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T21:16:09.29",
+      "EndDate": "2021-12-17T22:19:08.94"
+    },
+    {
+      "MachineStateHistoryId": 3209,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T21:01:08.903",
+      "EndDate": "2021-12-17T21:16:09.29"
+    },
+    {
+      "MachineStateHistoryId": 3208,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T19:49:08.773",
+      "EndDate": "2021-12-17T21:01:08.903"
+    },
+    {
+      "MachineStateHistoryId": 3207,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T19:46:08.733",
+      "EndDate": "2021-12-17T19:49:08.773"
+    },
+    {
+      "MachineStateHistoryId": 3205,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T19:07:08.7",
+      "EndDate": "2021-12-17T19:46:08.733"
+    },
+    {
+      "MachineStateHistoryId": 3202,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T18:31:08.5",
+      "EndDate": "2021-12-17T19:07:08.7"
+    },
+    {
+      "MachineStateHistoryId": 3200,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T17:44:08.467",
+      "EndDate": "2021-12-17T18:31:08.5"
+    },
+    {
+      "MachineStateHistoryId": 3199,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T17:42:08.343",
+      "EndDate": "2021-12-17T17:44:08.467"
+    },
+    {
+      "MachineStateHistoryId": 3198,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T17:23:08.63",
+      "EndDate": "2021-12-17T17:42:08.343"
+    },
+    {
+      "MachineStateHistoryId": 3197,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T17:22:08.39",
+      "EndDate": "2021-12-17T17:23:08.63"
+    },
+    {
+      "MachineStateHistoryId": 3192,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T16:34:08.32",
+      "EndDate": "2021-12-17T17:22:08.39"
+    },
+    {
+      "MachineStateHistoryId": 3186,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T16:21:09.83",
+      "EndDate": "2021-12-17T16:34:08.32"
+    },
+    {
+      "MachineStateHistoryId": 3183,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T14:03:08.257",
+      "EndDate": "2021-12-17T16:21:09.83"
+    },
+    {
+      "MachineStateHistoryId": 3178,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T13:35:08.72",
+      "EndDate": "2021-12-17T14:03:08.257"
+    },
+    {
+      "MachineStateHistoryId": 3177,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-17T13:30:08.313",
+      "EndDate": "2021-12-17T13:35:08.72"
+    },
+    {
+      "MachineStateHistoryId": 3159,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T22:22:10.49",
+      "EndDate": "2021-12-17T13:30:08.313"
+    },
+    {
+      "MachineStateHistoryId": 3157,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T22:14:10.673",
+      "EndDate": "2021-12-16T22:22:10.487"
+    },
+    {
+      "MachineStateHistoryId": 3156,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T22:13:10.717",
+      "EndDate": "2021-12-16T22:14:10.673"
+    },
+    {
+      "MachineStateHistoryId": 3154,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T21:13:10.47",
+      "EndDate": "2021-12-16T22:13:10.717"
+    },
+    {
+      "MachineStateHistoryId": 3153,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T21:12:10.453",
+      "EndDate": "2021-12-16T21:13:10.47"
+    },
+    {
+      "MachineStateHistoryId": 3152,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T21:07:10.443",
+      "EndDate": "2021-12-16T21:12:10.453"
+    },
+    {
+      "MachineStateHistoryId": 3150,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T21:00:12.547",
+      "EndDate": "2021-12-16T21:07:10.443"
+    },
+    {
+      "MachineStateHistoryId": 3149,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T20:59:10.677",
+      "EndDate": "2021-12-16T21:00:12.547"
+    },
+    {
+      "MachineStateHistoryId": 3146,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T20:33:10.74",
+      "EndDate": "2021-12-16T20:59:10.677"
+    },
+    {
+      "MachineStateHistoryId": 3145,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T20:27:10.703",
+      "EndDate": "2021-12-16T20:33:10.74"
+    },
+    {
+      "MachineStateHistoryId": 3144,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T19:14:10.277",
+      "EndDate": "2021-12-16T20:27:10.703"
+    },
+    {
+      "MachineStateHistoryId": 3143,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T19:12:10.507",
+      "EndDate": "2021-12-16T19:14:10.277"
+    },
+    {
+      "MachineStateHistoryId": 3142,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T19:08:10.927",
+      "EndDate": "2021-12-16T19:12:10.507"
+    },
+    {
+      "MachineStateHistoryId": 3140,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T18:32:10.437",
+      "EndDate": "2021-12-16T19:08:10.927"
+    },
+    {
+      "MachineStateHistoryId": 3139,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T18:23:10.323",
+      "EndDate": "2021-12-16T18:32:10.437"
+    },
+    {
+      "MachineStateHistoryId": 3138,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T18:22:10.33",
+      "EndDate": "2021-12-16T18:23:10.323"
+    },
+    {
+      "MachineStateHistoryId": 3136,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T18:18:10.287",
+      "EndDate": "2021-12-16T18:22:10.33"
+    },
+    {
+      "MachineStateHistoryId": 3135,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T18:17:10.283",
+      "EndDate": "2021-12-16T18:18:10.287"
+    },
+    {
+      "MachineStateHistoryId": 3134,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T18:06:10.553",
+      "EndDate": "2021-12-16T18:17:10.283"
+    },
+    {
+      "MachineStateHistoryId": 3133,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T18:05:10.463",
+      "EndDate": "2021-12-16T18:06:10.553"
+    },
+    {
+      "MachineStateHistoryId": 3130,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T17:49:10.21",
+      "EndDate": "2021-12-16T18:05:10.463"
+    },
+    {
+      "MachineStateHistoryId": 3129,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T17:46:10.28",
+      "EndDate": "2021-12-16T17:49:10.21"
+    },
+    {
+      "MachineStateHistoryId": 3128,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T17:26:10.33",
+      "EndDate": "2021-12-16T17:46:10.28"
+    },
+    {
+      "MachineStateHistoryId": 3127,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T17:22:10.357",
+      "EndDate": "2021-12-16T17:26:10.33"
+    },
+    {
+      "MachineStateHistoryId": 3126,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T17:20:10.427",
+      "EndDate": "2021-12-16T17:22:10.357"
+    },
+    {
+      "MachineStateHistoryId": 3125,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T17:16:10.643",
+      "EndDate": "2021-12-16T17:20:10.427"
+    },
+    {
+      "MachineStateHistoryId": 3119,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T16:36:10.05",
+      "EndDate": "2021-12-16T17:16:10.643"
+    },
+    {
+      "MachineStateHistoryId": 3118,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T16:18:10.077",
+      "EndDate": "2021-12-16T16:36:10.05"
+    },
+    {
+      "MachineStateHistoryId": 3114,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T15:34:10.25",
+      "EndDate": "2021-12-16T16:18:10.077"
+    },
+    {
+      "MachineStateHistoryId": 3111,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T15:07:10.25",
+      "EndDate": "2021-12-16T15:34:10.25"
+    },
+    {
+      "MachineStateHistoryId": 3110,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-16T15:06:10.083",
+      "EndDate": "2021-12-16T15:07:10.25"
+    },
+    {
+      "MachineStateHistoryId": 3069,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T22:18:08.7",
+      "EndDate": "2021-12-16T15:06:10.083"
+    },
+    {
+      "MachineStateHistoryId": 3064,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T21:20:09.093",
+      "EndDate": "2021-12-15T22:18:08.7"
+    },
+    {
+      "MachineStateHistoryId": 3061,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T21:01:08.527",
+      "EndDate": "2021-12-15T21:20:09.093"
+    },
+    {
+      "MachineStateHistoryId": 3060,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:46:08.73",
+      "EndDate": "2021-12-15T21:01:08.527"
+    },
+    {
+      "MachineStateHistoryId": 3059,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:45:08.997",
+      "EndDate": "2021-12-15T20:46:08.73"
+    },
+    {
+      "MachineStateHistoryId": 3058,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:43:08.493",
+      "EndDate": "2021-12-15T20:45:08.997"
+    },
+    {
+      "MachineStateHistoryId": 3057,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:42:08.86",
+      "EndDate": "2021-12-15T20:43:08.493"
+    },
+    {
+      "MachineStateHistoryId": 3054,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:20:08.697",
+      "EndDate": "2021-12-15T20:42:08.857"
+    },
+    {
+      "MachineStateHistoryId": 3053,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:17:08.633",
+      "EndDate": "2021-12-15T20:20:08.697"
+    },
+    {
+      "MachineStateHistoryId": 3052,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:12:08.543",
+      "EndDate": "2021-12-15T20:17:08.633"
+    },
+    {
+      "MachineStateHistoryId": 3051,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:11:08.437",
+      "EndDate": "2021-12-15T20:12:08.543"
+    },
+    {
+      "MachineStateHistoryId": 3048,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:04:14.79",
+      "EndDate": "2021-12-15T20:11:08.437"
+    },
+    {
+      "MachineStateHistoryId": 3047,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T20:03:08.493",
+      "EndDate": "2021-12-15T20:04:14.79"
+    },
+    {
+      "MachineStateHistoryId": 3044,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T19:59:08.387",
+      "EndDate": "2021-12-15T20:03:08.493"
+    },
+    {
+      "MachineStateHistoryId": 3043,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T19:54:08.7",
+      "EndDate": "2021-12-15T19:59:08.387"
+    },
+    {
+      "MachineStateHistoryId": 3042,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T19:53:08.53",
+      "EndDate": "2021-12-15T19:54:08.7"
+    },
+    {
+      "MachineStateHistoryId": 3041,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T19:52:10.073",
+      "EndDate": "2021-12-15T19:53:08.53"
+    },
+    {
+      "MachineStateHistoryId": 3040,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T19:51:08.783",
+      "EndDate": "2021-12-15T19:52:10.073"
+    },
+    {
+      "MachineStateHistoryId": 3039,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T19:50:08.393",
+      "EndDate": "2021-12-15T19:51:08.783"
+    },
+    {
+      "MachineStateHistoryId": 3038,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T19:49:08.49",
+      "EndDate": "2021-12-15T19:50:08.393"
+    },
+    {
+      "MachineStateHistoryId": 3035,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T19:07:08.64",
+      "EndDate": "2021-12-15T19:49:08.49"
+    },
+    {
+      "MachineStateHistoryId": 3031,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T18:30:08.387",
+      "EndDate": "2021-12-15T19:07:08.64"
+    },
+    {
+      "MachineStateHistoryId": 3029,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T17:40:08.497",
+      "EndDate": "2021-12-15T18:30:08.387"
+    },
+    {
+      "MachineStateHistoryId": 3028,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T17:35:08.72",
+      "EndDate": "2021-12-15T17:40:08.497"
+    },
+    {
+      "MachineStateHistoryId": 3022,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T16:18:08.207",
+      "EndDate": "2021-12-15T17:35:08.72"
+    },
+    {
+      "MachineStateHistoryId": 3021,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T16:17:08.553",
+      "EndDate": "2021-12-15T16:18:08.207"
+    },
+    {
+      "MachineStateHistoryId": 3017,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T16:05:08.33",
+      "EndDate": "2021-12-15T16:17:08.553"
+    },
+    {
+      "MachineStateHistoryId": 3016,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T15:31:09.693",
+      "EndDate": "2021-12-15T16:05:08.33"
+    },
+    {
+      "MachineStateHistoryId": 3015,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T15:22:08.107",
+      "EndDate": "2021-12-15T15:31:09.693"
+    },
+    {
+      "MachineStateHistoryId": 3014,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T15:20:08.133",
+      "EndDate": "2021-12-15T15:22:08.107"
+    },
+    {
+      "MachineStateHistoryId": 3011,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T14:44:11.26",
+      "EndDate": "2021-12-15T15:20:08.133"
+    },
+    {
+      "MachineStateHistoryId": 3010,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T14:42:08.213",
+      "EndDate": "2021-12-15T14:44:11.26"
+    },
+    {
+      "MachineStateHistoryId": 3008,
+      "StateName": "Operational",
+      "Color": "#01c76a",
+      "MachineStateId": 1,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T14:02:08.187",
+      "EndDate": "2021-12-15T14:42:08.213"
+    },
+    {
+      "MachineStateHistoryId": 3007,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T14:01:08.027",
+      "EndDate": "2021-12-15T14:02:08.187"
+    },
+    {
+      "MachineStateHistoryId": 3006,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T13:58:07.917",
+      "EndDate": "2021-12-15T14:01:08.027"
+    },
+    {
+      "MachineStateHistoryId": 3005,
+      "StateName": "Power Off",
+      "Color": "#00A3FF",
+      "MachineStateId": 2,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T13:32:08.223",
+      "EndDate": "2021-12-15T13:58:07.917"
+    },
+    {
+      "MachineStateHistoryId": 3004,
+      "StateName": "Reverse",
+      "Color": "#F64E4C",
+      "MachineStateId": 3,
+      "MachineId": 21,
+      "StartDate": "2021-12-15T13:31:08.097",
+      "EndDate": "2021-12-15T13:32:08.223"
+    }
+  ]
+}
